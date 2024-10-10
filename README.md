@@ -1,7 +1,3 @@
-Sure! Here's a structured `README.md` file for your Flask blog project. It includes setup instructions, usage information, and a general project overview.
-
----
-
 # Flask Blog Application
 
 A simple Flask blog application that allows users to register, log in, create blog posts, and comment on posts. Admin users can manage posts (create, edit, delete), while registered users can leave comments on blog posts.
