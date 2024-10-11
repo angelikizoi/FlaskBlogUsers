@@ -1,7 +1,11 @@
 # Flask Blog Application
 
-A simple Flask blog application that allows users to register, log in, create blog posts, and comment on posts. Admin users can manage posts (create, edit, delete), while registered users can leave comments on blog posts.
+A simple Flask blog application that allows users to register, log in, create blog posts, and comment on posts. Admin users can manage posts
+(create, edit, delete), while registered users can leave comments on blog posts.
 
+This project is based on and inspired by the **100 Days of Code: The Complete Python Pro Bootcamp for 2023** 
+course by Angela Yu. The course provides an excellent introduction to Python and was the foundation for this game. 
+You can check out the course on [Udemy](https://www.udemy.com/course/100-days-of-code/?couponCode=ST14MT101024#reviews).
 ## Features
 - User registration and login
 - Admin-only access to post creation, editing, and deletion
@@ -21,8 +25,8 @@ Make sure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/angelikizoi/flask-blog.git
-cd flask-blog
+git clone https://github.com/angelikizoi/FlaskBlogUsers.git
+cd FlaskBlogUsers
 ```
 
 ### 2. Set Up a Virtual Environment
